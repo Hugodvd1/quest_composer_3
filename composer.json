@@ -1,0 +1,17 @@
+{
+    "name": "hugodavid/quest_composer_3",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hugo David",
+            "email": "hugodvd@outlook.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
